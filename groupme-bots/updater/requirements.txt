@@ -1,0 +1,6 @@
+Flask==1.0.3
+gunicorn==19.6.0
+groupy==0.5.1
+GroupyAPI==0.10.3
+requests==2.20.1
+urllib3==1.24.3
